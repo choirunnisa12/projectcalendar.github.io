@@ -1,1 +1,1 @@
-# projectcalendar.github.io
+# Calendar with HTML, CSS & JavaScript
